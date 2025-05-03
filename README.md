@@ -50,4 +50,5 @@ Coming soon... Stay tuned for updates as I build and deploy more backend-powered
 ---
 
 >**“Backend development is not just about writing code—it's about building systems that power great experiences.”**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Redwa10&show_icons=true&theme=radical)
 
