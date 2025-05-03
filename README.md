@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hello, I'm Abdulhafiz Redwan
 
-<!--
-**Redwa10/Redwa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 🧠 Backend Developer in Progress | 🌍 Addis Ababa, Ethiopia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate and self-motivated software engineering student at **Adama Science and Technology University** with a deep interest in **backend development**. Currently, I’m focused on mastering **Django** and building real-world applications that are scalable, secure, and efficient.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript, SQL, HTML, CSS
+- **Frameworks & Tools**: Django, Django REST Framework
+- **Databases**: MySQL, SQLite
+- **Tools & Platforms**: Git, GitHub, VS Code
+
+---
+
+## 📚 Currently Learning
+
+- 🔸 Django REST Framework & API Design  
+- 🔸 Authentication & Authorization (JWT, OAuth)  
+- 🔸 Docker & Deployment  
+- 🔸 Advanced SQL and Database Optimization
+
+---
+
+## 📌 Goals
+
+- ✅ Build multiple full-stack projects with Django  
+- ✅ Learn modern deployment tools (Docker, CI/CD, etc.)  
+- 🔜 Contribute to open-source projects  
+- 🔜 Land an internship or remote backend developer role
+
+---
+
+## 📂 Featured Projects
+
+Coming soon... Stay tuned for updates as I build and deploy more backend-powered apps!
+
+---
+
+## 📫 Let’s Connect
+- **Email**: hafizredwan10@gmail.com 
+- **GitHub**: [github.com/AbdulhafizRedwan](https://github.com/AbdulhafizRedwan)
+
+---
+
+>**“Backend development is not just about writing code—it's about building systems that power great experiences.”**
+
