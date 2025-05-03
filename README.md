@@ -45,7 +45,7 @@ Coming soon... Stay tuned for updates as I build and deploy more backend-powered
 
 ## 📫 Let’s Connect
 - **Email**: hafizredwan10@gmail.com 
-- **GitHub**: [github.com/AbdulhafizRedwan](https://github.com/AbdulhafizRedwan)
+- **GitHub**: [github.com/AbdulhafizRedwan](https://github.com/Redwa10)
 
 ---
 
